@@ -235,7 +235,7 @@ dl+dl:before {
 
 .info-cont dt, 
 .info-cont dd {
-    padding: 0 5px 5px 0;
+    padding: 0 10px 5px 0;
     margin: 0;
 }
 
@@ -437,7 +437,7 @@ dl+dl:before {
 
 .info-cont dt, 
 .info-cont dd {
-    padding: 0 5px 5px 0;
+    padding: 0 10px 5px 0;
     margin: 0;
 }
 
@@ -635,7 +635,7 @@ dl+dl:before {
 
 .info-cont dt, 
 .info-cont dd {
-    padding: 0 3px 3px 0;
+    padding: 0 5px 3px 0;
     margin: 0;
 }
 
