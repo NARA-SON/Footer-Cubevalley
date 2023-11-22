@@ -130,7 +130,7 @@
     position: absolute;
     top: 32px;
     right:0;
-    width: 150px;
+    width: 200px;
     border:1px solid #ddd;
     border-radius:5px;
     background:#fff;
@@ -347,7 +347,7 @@ dl+dl:before {
     position: absolute;
     top: 32px;
     right:0;
-    width: 150px;
+    width: 200px;
     border:1px solid #ddd;
     border-radius:5px;
     background:#fff;
