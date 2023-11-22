@@ -87,7 +87,7 @@
     color:#555;
     border:1px solid #ddd;
     border-radius:5px;
-    width: 130px;
+    width: 180px;
     padding: 5px 10px;
     position: relative;
   }
@@ -184,7 +184,7 @@
   .snsList{
     display:flex;
     justify-content: space-between;
-    width:150px;
+    width:200px;
   }
 
   .snsList>li{
@@ -304,7 +304,7 @@ dl+dl:before {
     color:#555;
     border:1px solid #ddd;
     border-radius:5px;
-    width: 130px;
+    width: 180px;
     padding: 5px 10px;
     position: relative;
   }
@@ -401,7 +401,7 @@ dl+dl:before {
   .snsList{
     display:flex;
     justify-content: space-between;
-    width:150px;
+    width:200px;
   }
 
   .snsList>li{
@@ -598,7 +598,7 @@ dl+dl:before {
   .snsList{
     display:flex;
     justify-content: space-between;
-    width:100px;
+    width:120px;
   }
 
   .snsList>li{
