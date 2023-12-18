@@ -264,7 +264,7 @@ dl+dl:before {
   @media (min-width:768px) and (max-width:1200px) {
      /* ------common------- */
   .footerWrap{
-    width:100%;
+    width:95%;
     margin:0 auto;
   }
 
@@ -279,7 +279,7 @@ dl+dl:before {
     justify-content: space-between;
     align-items: center;
     /* border:1px solid red; */
-    width:100%;
+    width:95%;
     margin:0 auto;
   }
 
