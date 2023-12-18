@@ -43,8 +43,8 @@
     font-style: normal;
 }
 
-  /* PC */
-  @media (min-width:1024px) {
+  /* PC 반응형*/
+  @media (min-width:1201px) {
   /* ------common------- */
   .footerWrap{
     width:1200px;
@@ -261,7 +261,7 @@ dl+dl:before {
 }
 
   /* 태블릿 *//* 태블릿 *//* 태블릿 *//* 태블릿 *//* 태블릿 *//* 태블릿 *//* 태블릿 *//* 태블릿 */
-  @media (min-width:768px) and (max-width:1023px) {
+  @media (min-width:768px) and (max-width:1200px) {
      /* ------common------- */
   .footerWrap{
     width:100%;
