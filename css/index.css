@@ -47,7 +47,7 @@
   @media (min-width:1024px) {
   /* ------common------- */
   .footerWrap{
-    width:1024px;
+    width:1200px;
     margin:0 auto;
   }
 
@@ -62,7 +62,7 @@
     justify-content: space-between;
     align-items: center;
     /* border:1px solid red; */
-    width:1024px;
+    width:1200px;
     margin:0 auto;
   }
 
